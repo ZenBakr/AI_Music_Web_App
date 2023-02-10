@@ -22,8 +22,9 @@ body
     color:rgb(121, 159, 129);
 }
 
-.canvas
+canvas
 {
     border-radius:20px;
     background-color: rgb(86, 125, 95);
+    border:5px solid black;
 }
